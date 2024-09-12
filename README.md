@@ -34,7 +34,7 @@ While **Esign iOS** offers access to globally available certificates, these may 
 
 ## Injecting Tweaks with Esign IPA
 
-A standout feature of **Esign iOS** is its ability to inject jailbreak tweaks into IPA files. **This allows you to use popular tweaks without jailbreaking your device.** We provide a [[step-by-step guide for injecting tweaks process]](https://onejailbreak.com/blog/esign-ipa-signing-app/injecting-tweaks-into-app-ios-esign/).
+A standout feature of **Esign iOS** is its ability to inject jailbreak tweaks into IPA files. **This allows you to use popular tweaks without jailbreaking your device.** We provide a [step-by-step guide for injecting tweaks process](https://onejailbreak.com/blog/esign-ipa-signing-app/injecting-tweaks-into-app-ios-esign/).
 
 ## Installing Esign without a PC
 
