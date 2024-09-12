@@ -12,7 +12,7 @@ Key details:
 - Version: 5.0.2
 - Size: 8 MB
 
-**[Download Esign IPA](https://onejailbreak.com/blog/esign-ipa-signing-app/download)
+**[Download Esign IPA](https://onejailbreak.com/blog/esign-ipa-signing-app/download)**
 
 ## What is Esign iOS IPA Installer?
 
