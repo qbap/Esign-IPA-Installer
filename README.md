@@ -52,7 +52,7 @@ If you need to use a computer, follow these steps to install **Esign IPA**:
 6. Install the IPA on your device.
 7. Trust the developer profile in your device settings.
 
-![[Esign app running on iOS]] (https://github.com/qbap/Esign-IPA-Installer/blob/main/Esign-iOS-Home-Screen.jpg)
+![[Esign app running on iOS]](https://github.com/qbap/Esign-IPA-Installer/blob/main/Esign-iOS-Home-Screen.jpg)
 
 ## Using Esign to Sign and Install IPAs
 
