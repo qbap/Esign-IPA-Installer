@@ -38,7 +38,8 @@ A standout feature of **Esign iOS** is its ability to inject jailbreak tweaks in
 
 ## Installing Esign without a PC
 
-**For iOS 14.4.1 to iOS 15.4.1 users, Esign download iOS is possible directly from a web browser.** Esign+ uses a method from TrollStore to bypass Apple security, allowing permanent sideloading of the app on your iPhone. [Learn how to install Esign without a PC](https://onejailbreak.com/blog/esign-ipa-signing-app/esign-direct-install/).
+**For iOS 14.4.1 to iOS 15.4.1 users, Esign download iOS is possible directly from a web browser.** Esign+ uses a method from [TrollStore](https://github.com/opa334/TrollStore
+) to bypass Apple security, allowing permanent sideloading of the app on your iPhone. [Learn how to install Esign without a PC](https://onejailbreak.com/blog/esign-ipa-signing-app/esign-direct-install/).
 
 ## How to Install Esign IPA with a Computer
 
