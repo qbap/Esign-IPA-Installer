@@ -34,11 +34,11 @@ While **Esign iOS** offers access to globally available certificates, these may 
 
 ## Injecting Tweaks with Esign IPA
 
-A standout feature of **Esign iOS** is its ability to inject jailbreak tweaks into IPA files. **This allows you to use popular tweaks without jailbreaking your device.** We provide a step-by-step guide for this process.
+A standout feature of **Esign iOS** is its ability to inject jailbreak tweaks into IPA files. **This allows you to use popular tweaks without jailbreaking your device.** We provide a [[step-by-step guide for injecting tweaks process]](https://onejailbreak.com/blog/esign-ipa-signing-app/injecting-tweaks-into-app-ios-esign/).
 
 ## Installing Esign without a PC
 
-**For iOS 14.4.1 to iOS 15.4.1 users, Esign download iOS is possible directly from a web browser.** Esign+ uses a method from TrollStore to bypass Apple security, allowing permanent sideloading of the app on your iPhone.
+**For iOS 14.4.1 to iOS 15.4.1 users, Esign download iOS is possible directly from a web browser.** Esign+ uses a method from TrollStore to bypass Apple security, allowing permanent sideloading of the app on your iPhone. [Learn how to install Esign without a PC](https://onejailbreak.com/blog/esign-ipa-signing-app/esign-direct-install/).
 
 ## How to Install Esign IPA with a Computer
 
