@@ -8,11 +8,11 @@ The latest **Esign download iOS** option is version 5.0.2, released as an IPA pa
 
 Key details:
 - Last updated: Jan 29, 2024
-- Developer: Easy Sign
+- Developer: [Easy Sign](https://esign.yyyue.xyz)
 - Version: 5.0.2
 - Size: 8 MB
 
-[Download Esign IPA](https://onejailbreak.com/blog/esign-ipa-signing-app/download)
+**[Download Esign IPA](https://onejailbreak.com/blog/esign-ipa-signing-app/download)
 
 ## What is Esign iOS IPA Installer?
 
