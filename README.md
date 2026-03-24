@@ -14,7 +14,7 @@ The latest **Esign download iOS** option is version 5.0.2, released as an IPA pa
 
 ## What is Esign iOS IPA Installer?
 
-**Esign iOS** is an on-device IPA signing tool that enables you to sign apps with your own or globally available certificates and install them on your iPhone or iPad. **It serves as a Cydia Impactor alternative, supporting iOS 11 up to iOS 16, and allows IPA installation without a computer.**
+**Esign iOS** is an on-device IPA signing tool that enables you to sign apps with your own or globally available certificates and install them on your iPhone or iPad. **It serves as a Cydia Impactor alternative, supporting iOS 11 up to iOS 26.4, and allows IPA installation without a computer.**
 
 ![[Esign app running on iOS]](https://github.com/qbap/Esign-IPA-Installer/blob/main/Esign-iOS-app.jpg)
 
