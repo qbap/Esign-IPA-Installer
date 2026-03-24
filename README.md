@@ -1,18 +1,16 @@
-# Esign iOS: IPA Installer for iPhone and iPad
+# Esign iOS: IPA Installer for iPhone and iPad 2026 Update
 
-[**Esign iOS**](https://onejailbreak.com/blog/esign-ipa-signing-app/) is a powerful tool that allows you to sign and install IPA files directly on your iPhone or iPad. As one of the few solutions available, **Esign IPA** provides users with the flexibility to use either a globally available certificate or their own p12 generated certificate. Recently, Easy Sign+ was released for iOS 14 – iOS 15, based on the TrollStore IPA installer, offering installation without a PC.
+[**Esign iOS**](https://onejailbreak.com/blog/esign-ipa-signing-app/) is a powerful tool that allows you to sign and install IPA files directly on your iPhone or iPad. As one of the few solutions available, **Esign IPA** provides users with the flexibility to use either a globally available certificate or their own p12 generated certificate. 
+
+The IPa installer support the latest iOS 26.4 (release don 24 March 2026), but youc an also install it on iOS 18, iOS 17, iOS 16, and iOS 15.
 
 ## Download Esign IPA
 
-The latest **Esign download iOS** option is version 5.0.2, released as an IPA package. This version can be sideloaded onto your device using your preferred IPA installer. **For iOS 14 – iOS 15.4.1 users, Easy Sign+ can be downloaded directly from a web browser.**
-
-Key details:
-- Last updated: Jan 29, 2024
-- Developer: [Easy Sign](https://esign.yyyue.xyz)
-- Version: 5.0.2
-- Size: 8 MB
+The latest **Esign download iOS** option is version 5.0.2, released as an IPA package. This version can be sideloaded onto your device using your preferred IPA installer. 
 
 **[Download Esign IPA](https://onejailbreak.com/blog/esign-ipa-signing-app/download)**
+
+**[Esign Free Signing Certificate](https://onejailbreak.com/blog/esign-ipa-signing-app/esign-certificate-ios/)**
 
 ## What is Esign iOS IPA Installer?
 
