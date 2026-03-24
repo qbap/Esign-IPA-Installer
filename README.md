@@ -6,7 +6,7 @@ The IPa installer support the latest iOS 26.4 (release on 24 March 2026), but yo
 
 ## Download Esign IPA
 
-The latest **Esign download iOS** option is version 5.0.2, released as an IPA package. This version can be sideloaded onto your device using your preferred IPA installer. 
+The latest **Esign download iOS** option is version 5.0.2, released as an IPA package. This version can be sideloaded onto your device using your preferred IPA installer. Esign requires a certificate to sign UP files but we provide one for free.
 
 **[Download Esign IPA](https://onejailbreak.com/blog/esign-ipa-signing-app/download)**
 
