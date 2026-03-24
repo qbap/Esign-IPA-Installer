@@ -2,7 +2,7 @@
 
 [**Esign iOS**](https://onejailbreak.com/blog/esign-ipa-signing-app/) is a powerful tool that allows you to sign and install IPA files directly on your iPhone or iPad. As one of the few solutions available, **Esign IPA** provides users with the flexibility to use either a globally available certificate or their own p12 generated certificate. 
 
-The IPa installer support the latest iOS 26.4 (release don 24 March 2026), but youc an also install it on iOS 18, iOS 17, iOS 16, and iOS 15.
+The IPa installer support the latest iOS 26.4 (release on 24 March 2026), but you can also install it on iOS 18, iOS 17, iOS 16, and iOS 15.
 
 ## Download Esign IPA
 
